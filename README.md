@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @robin7782
+- 👋 Hi, I’m Nur Hossain Robin, you can call me Robin as my surname.
 - 👀 I’m interested in problem solving and Software Engineering.
 - 🌱 I’m currently learning Machine learning , Artificial Intelligence , web development and Dsa.
 - 💞️ I’m looking to collaborate on the technology sectors that need junior software Engineers.
